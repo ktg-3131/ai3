@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
     labels[0]: {
        "texts": ["박정희는 빨갱이입니다."],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://dcimg1.dcinside.com/viewimage.php?id=2fbcd433ee&no=24b0d769e1d32ca73fe886fa11d02831263ed6ebb6262f3a8467c3f1fb406d0e482f34a574da219e38db4d22db71466f102b87dacb5ac13dc467870be1454352a066829eca27dffc7beebfca7a60138530a72d97827d5411345a8e4043741b"],
        "videos": ["https://www.youtube.com/watch?v=7sWXH4IbHKs"]
      },
 }
