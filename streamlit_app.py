@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[0]: {
        "texts": ["박정희는 빨갱이입니다."],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
+    #   "videos": ["https://www.youtube.com/watch?v=7sWXH4IbHKs"]
      },
 }
 
