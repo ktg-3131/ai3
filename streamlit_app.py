@@ -70,8 +70,8 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
     labels[0]: {
-       "texts": ["박정희는 빨갱이입니다."],
-       "images": ["https://dcimg1.dcinside.com/viewimage.php?id=2fbcd433ee&no=24b0d769e1d32ca73fe886fa11d02831263ed6ebb6262f3a8467c3f1fb406d0e482f34a574da219e38db4d22db71466f102b87dacb5ac13dc467870be1454352a066829eca27dffc7beebfca7a60138530a72d97827d5411345a8e4043741b"],
+       "texts": ["박정희는 총을 맞고 죽었습니다"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F25220202&psig=AOvVaw1jr3Ym3jpQE4iE8gk0ywBn&ust=1763423776506000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjx89Hv95ADFQAAAAAdAAAAABAE"],
        "videos": ["https://www.youtube.com/watch?v=7sWXH4IbHKs"]
      },
 
