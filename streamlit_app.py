@@ -76,18 +76,27 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
 
 
-    labels[0]: {
-       "texts": ["박정희는 총을 맞고 죽었습니다.."],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EB%25B0%2595%25EC%25A0%2595%25ED%259D%25AC&psig=AOvVaw0uU6xrj0VuBmUOo_vcGDcI&ust=1763423225724000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDI0ebt95ADFQAAAAAdAAAAABAE"],
-       "videos": ["https://www.youtube.com/watch?v=7sWXH4IbHKs"]
+    labels[1]: {
+       "texts": ["윤석열은 탄핵되었습니다."],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mt.co.kr%2Fsociety%2F2025%2F09%2F26%2F2025092610290351787&psig=AOvVaw2QoVbkRJAYuMwYbu7pV49P&ust=1763424332847000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC7ltzx95ADFQAAAAAdAAAAABAE"],
+       "videos": ["https://www.youtube.com/watch?time_continue=4&v=qdzLJlwdMNo&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fclient%3Dtablet-android-samsung-ss%26sca_esv%3D0d21926df0b72c1d%26udm%3D7%26fbs%3DAIIjpHyDg0Pef0CibV20xjIa-FReIK&source_ve_path=MjM4NTE"]
      },
 
 
 
-    labels[0]: {
-       "texts": ["박정희는 빨갱이입니다."],
-       "images": ["https://dcimg1.dcinside.com/viewimage.php?id=2fbcd433ee&no=24b0d769e1d32ca73fe886fa11d02831263ed6ebb6262f3a8467c3f1fb406d0e482f34a574da219e38db4d22db71466f102b87dacb5ac13dc467870be1454352a066829eca27dffc7beebfca7a60138530a72d97827d5411345a8e4043741b"],
-       "videos": ["https://www.youtube.com/watch?v=7sWXH4IbHKs"]
+    labels[2]: {
+       "texts": ["이명박"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%259D%25B4%25EB%25AA%2585%25EB%25B0%2595&psig=AOvVaw2pBT85mc4Sz9B_KZvA1gUI&ust=1763424524821000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiY0bfy95ADFQAAAAAdAAAAABAK"],
+       "videos": ["https://www.youtube.com/watch?v=u1aCc0xYiQY"]
+     },
+
+
+
+
+       labels[3]: {
+       "texts": ["이승만은 부정선거 출신입니다."],
+       "image": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pennmike.com%2Fnews%2FarticleView.html%3Fidxno%3D54371&psig=AOvVaw3cgrJdeLBd9xjP5AxGK7bO&ust=1763424655067000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiFh_jy95ADFQAAAAAdAAAAABAE"] 
+       "videos": ["https://www.youtube.com/watch?v=HcN4-pZeBnM"]
      },
 
 }
