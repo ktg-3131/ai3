@@ -95,7 +95,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
    labels[3]: {
        "texts": ["이승만은 부정선거 출신입니다."],
-       "images": ["https://www.google.com/imgres?q=%EC%9D%B4%EC%8A%B9%EB%A7%8C&imgurl=https%3A%2F%2Fcdn.pennmike.com%2Fnews%2Fphoto%2F202205%2F54371_74041_2841.jpg&imgrefurl=https%3A%2F%2Fwww.pennmike.com%2Fnews%2FarticleView.html%3Fidxno%3D54371&docid=QQKcLPrQMSMX3M&tbnid=yxCBAdvAqbo5aM&vet=12ahUKEwjZh6eT9PeQAxVcZvUHHb_pKT0QM3oECBcQAA..i&w=600&h=850&hcb=2&ved=2ahUKEwjZh6eT9PeQAxVcZvUHHb_pKT0QM3oECBcQAA"]
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%259D%25B4%25EC%258A%25B9%25EB%25A7%258C&psig=AOvVaw2jHQGr_Jr42-rewnrTc8jq&ust=1763425204160000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJif2fr095ADFQAAAAAdAAAAABAE"]
        "videos": ["https://www.youtube.com/watch?v=HcN4-pZeBnM"]
      },
 
