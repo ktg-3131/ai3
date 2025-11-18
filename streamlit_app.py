@@ -78,7 +78,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[1]: {
        "texts": ["윤석열은 탄핵되었습니다."],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mt.co.kr%2Fsociety%2F2025%2F09%2F26%2F2025092610290351787&psig=AOvVaw2QoVbkRJAYuMwYbu7pV49P&ust=1763424332847000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC7ltzx95ADFQAAAAAdAAAAABAE"],
+       "images": ["https://i.namu.wiki/i/wdMWiCQFqiKcWGeR_yKWhZXF7HI2Aw9ihQY7309tilThvt3Sidj81bZWRO1MkU-oH4f0NUl4ElkZ6NsTV9eyuA.webp"],
        "videos": ["https://www.youtube.com/watch?time_continue=4&v=qdzLJlwdMNo&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fclient%3Dtablet-android-samsung-ss%26sca_esv%3D0d21926df0b72c1d%26udm%3D7%26fbs%3DAIIjpHyDg0Pef0CibV20xjIa-FReIK&source_ve_path=MjM4NTE"]
      },
 
@@ -86,7 +86,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[2]: {
        "texts": ["이명박"],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%259D%25B4%25EB%25AA%2585%25EB%25B0%2595&psig=AOvVaw2pBT85mc4Sz9B_KZvA1gUI&ust=1763424524821000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiY0bfy95ADFQAAAAAdAAAAABAK"],
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HVnkHuMa5tOwznZo5NeHZxraTTVabEn9Bw&s"],
        "videos": ["https://www.youtube.com/watch?v=u1aCc0xYiQY"]
      },
 
@@ -95,7 +95,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
    labels[3]: {
        "texts": ["이승만은 부정선거 출신입니다."],
-       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%259D%25B4%25EC%258A%25B9%25EB%25A7%258C&psig=AOvVaw2jHQGr_Jr42-rewnrTc8jq&ust=1763425204160000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJif2fr095ADFQAAAAAdAAAAABAE"],
+       "images": ["https://cdn.imweb.me/thumbnail/20170930/59cf1d7211292.jpg"],
        "videos": ["https://www.youtube.com/watch?v=HcN4-pZeBnM"]
      },
 
